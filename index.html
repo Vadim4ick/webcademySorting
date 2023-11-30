@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Сортировка и фильтрация товаров</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Список товаров</h1>
+
+      <form id="form">
+        <div class="sortBody">
+          <div class="sortContent">
+            <label for="filterInput">Фильтр по буквам:</label>
+            <input type="text" id="filterInput" />
+          </div>
+
+          <div class="sortContent">
+            <label for="sortCategory">Сортировка по категории:</label>
+            <select id="sortCategory">
+              <option value="all">Все</option>
+              <option value="laptops">Ноутбуки</option>
+              <option value="tablets">Планшеты</option>
+              <option value="phones">Телефоны</option>
+              <option value="headset">Гарнитура</option>
+            </select>
+          </div>
+
+          <div class="sortContent">
+            <label for="sortType">Тип сортировки:</label>
+            <select id="sortType">
+              <option value="date">По дате</option>
+              <option value="price">По цене</option>
+              <option value="alphabet">По алфавиту</option>
+            </select>
+          </div>
+
+          <div class="sortContent">
+            <label for="sortOrder">Направление сортировки:</label>
+            <select id="sortOrder">
+              <option value="asc">По возрастанию</option>
+              <option value="desc">По убыванию</option>
+            </select>
+          </div>
+
+          <button>Сбросить данные формы</button>
+        </div>
+      </form>
+
+      <h2>Отсортированные товары</h2>
+
+      <ul id="productList"></ul>
+    </div>
+
+    <script src="./js/model.js" type="module"></script>
+    <script src="./js/view.js" type="module"></script>
+    <script src="./js/controller.js" type="module"></script>
+  </body>
+</html>

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "subtitle": "Ноутбук",
+    "name": "Pro",
+    "price": 50000,
+    "date": "2023-01-15",
+    "category": "laptops"
+  },
+  {
+    "id": 2,
+    "subtitle": "Смартфон",
+    "name": "Lite",
+    "price": 20000,
+    "date": "2023-02-10",
+    "category": "phones"
+  },
+  {
+    "id": 3,
+    "subtitle": "Планшет",
+    "name": "Mini",
+    "price": 30000,
+    "date": "2023-03-05",
+    "category": "tablets"
+  },
+  {
+    "id": 4,
+    "subtitle": "Наушники",
+    "name": "Sport",
+    "price": 8000,
+    "date": "2023-04-20",
+    "category": "headset"
+  },
+  {
+    "id": 5,
+    "subtitle": "Ноутбук",
+    "name": "Air",
+    "price": 75000,
+    "date": "2023-05-12",
+    "category": "laptops"
+  },
+  {
+    "id": 6,
+    "subtitle": "Смартфон",
+    "name": "X",
+    "price": 35000,
+    "date": "2023-06-08",
+    "category": "phones"
+  },
+  {
+    "id": 7,
+    "subtitle": "Планшет",
+    "name": "Elite",
+    "price": 40000,
+    "date": "2023-07-17",
+    "category": "tablets"
+  },
+  {
+    "id": 8,
+    "subtitle": "Наушники",
+    "name": "Pro",
+    "price": 12000,
+    "date": "2023-08-25",
+    "category": "headset"
+  },
+  {
+    "id": 9,
+    "subtitle": "Ноутбук",
+    "name": "Ultra",
+    "price": 60000,
+    "date": "2023-09-14",
+    "category": "laptops"
+  },
+  {
+    "id": 10,
+    "subtitle": "Смартфон",
+    "name": "Max",
+    "price": 25000,
+    "date": "2023-10-03",
+    "category": "phones"
+  },
+  {
+    "id": 11,
+    "subtitle": "Планшет",
+    "name": "Pro",
+    "price": 35000,
+    "date": "2023-11-01",
+    "category": "tablets"
+  },
+  {
+    "id": 12,
+    "subtitle": "Наушники",
+    "name": "Comfort",
+    "price": 10000,
+    "date": "2023-12-09",
+    "category": "headset"
+  },
+  {
+    "id": 13,
+    "subtitle": "Ноутбук",
+    "name": "Power",
+    "price": 80000,
+    "date": "2024-01-18",
+    "category": "laptops"
+  },
+  {
+    "id": 14,
+    "subtitle": "Смартфон",
+    "name": "Plus",
+    "price": 30000,
+    "date": "2024-02-14",
+    "category": "phones"
+  },
+  {
+    "id": 15,
+    "subtitle": "Планшет",
+    "name": "Slim",
+    "price": 45000,
+    "date": "2024-03-29",
+    "category": "tablets"
+  },
+  {
+    "id": 16,
+    "subtitle": "Наушники",
+    "name": "Studio",
+    "price": 15000,
+    "date": "2024-04-30",
+    "category": "headset"
+  },
+  {
+    "id": 17,
+    "subtitle": "Ноутбук",
+    "name": "Power",
+    "price": 70000,
+    "date": "2024-05-20",
+    "category": "laptops"
+  },
+  {
+    "id": 18,
+    "subtitle": "Смартфон",
+    "name": "Plus",
+    "price": 28000,
+    "date": "2024-06-18",
+    "category": "phones"
+  },
+  {
+    "id": 19,
+    "subtitle": "Планшет",
+    "name": "Slim",
+    "price": 38000,
+    "date": "2024-07-11",
+    "category": "tablets"
+  },
+  {
+    "id": 20,
+    "subtitle": "Наушники",
+    "name": "Studio",
+    "price": 18000,
+    "date": "2024-08-22",
+    "category": "headset"
+  }
+]
